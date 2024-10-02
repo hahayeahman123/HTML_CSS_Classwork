@@ -1,0 +1,38 @@
+*{
+    text-align: center;
+    list-style: none;
+}
+header{
+    margin: 50px 50px 10px 50px;
+}
+h2{
+    margin: 0%;
+    height: 20px;
+    width: 100px;
+    padding: 20px 0px 0px;
+    font-size: medium;
+}
+section{
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+section{
+    border-top: 2px solid gray;
+    border-bottom: 2px solid gray;
+}
+main article{
+    display: inline-block;
+    margin: 5px;
+    width: 200px;
+    height: 20px;
+}
+p{
+    margin: 0;
+    text-align: left;
+    font-size: 15px;
+}
+footer{
+    color: gainsboro;
+}
